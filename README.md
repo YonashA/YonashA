@@ -1,6 +1,8 @@
 ![MultipotentialGithub](https://user-images.githubusercontent.com/97128701/171820437-f7cdb7bf-ce95-41b9-945b-d95e68a21c8b.png)
 
 
+<h2>Hello, I'm Jonasz Adamski! </h2> 
+
 - 👋 Hi, I’m @YonashA
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
