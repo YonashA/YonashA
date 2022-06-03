@@ -13,36 +13,28 @@ I’ve built my career on a few important principles: be productive and innovati
 
 <h3>What I'm focusing on <img src="https://user-images.githubusercontent.com/97128701/171838845-15a0405f-4657-4b06-b2e6-b2f80eeabd8c.png" width="40" height="40"></h3>
 
+Currently improving my Python skills, Django, Bootstrap, HTML & CSS in a Full-Stack Web Development project, building a small portal for premium members of the <a href="https://ekkb.pl/">European Women Business Club<a/>. And, I have a list of ideas for other small & big projects.
+
 <h3>What I'm learning now <img src="https://user-images.githubusercontent.com/97128701/171838732-d3ca63d3-aa78-42ef-a540-5941e16842e7.png" width="40" height="40"></h3>
+  
+ <p>Gathering new knowledge and up-skilling by leveraging video tutorials, taking online courses (Udemy), reading books and finally, completing my coding projects.</p>
 
 In progress:
 <ul>
-  <li></li>
-  <li></li>
+  <li>Python</li>
+  <li>Django</li>
+  <li>Bootstrap</li>
+  <li>SQL</li>
 </ul>
 
 Planned:
 <ul>
-  <li></li>
-  <li></li>
+  <li>Javascript</li>
+  <li>CS50's Introduction to Computer Science (<img src="https://user-images.githubusercontent.com/97128701/171847096-d67cc671-fc19-4ec2-a6f5-a1a081ad0e20.png" width="20" height="20">   2022 Goal)</li>
+  <li>CS50's Web Programming with Python and JavaScript (<img src="https://user-images.githubusercontent.com/97128701/171847096-d67cc671-fc19-4ec2-a6f5-a1a081ad0e20.png" width="20" height="20">   2022 Goal)</li>
 </ul>
 
 
 <h3>Where else to find me <img src="https://user-images.githubusercontent.com/97128701/171838435-8c8f1c3c-4297-47cc-be1a-cf2c4cc6f152.png" width="40" height="40"></h3>
 
-
 <a href="https://www.linkedin.com/in/jonaszadamski/" target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>   <a href="https://twitter.com/JonaszAd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-
-
-
-- 👋 Hi, I’m @YonashA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-<!---
-YonashA/YonashA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
