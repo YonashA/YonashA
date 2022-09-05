@@ -1,6 +1,3 @@
-![MultipotentialGithub](https://user-images.githubusercontent.com/97128701/171820437-f7cdb7bf-ce95-41b9-945b-d95e68a21c8b.png)
-
-
 <h2>I'm Jonasz Adamski! <img src="https://user-images.githubusercontent.com/97128701/171836461-a8b868ab-d6b1-4191-89e6-7bf92ad6ba32.png" width="40" height="40"></h2> 
 <p>I’m a man with many passions, constantly exploring new horizons, quick learner and creative in everything I do. I work for one of the greatest, biggest and innovative <a href="https://www.ibm.com/">companies in the World</a> as a Senior Managing Consultant for Finance Transformation.
 I’ve built my career on a few important principles: be productive and innovative, take on new challenges, put my heart into it and never stop!</p>
