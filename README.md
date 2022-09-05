@@ -27,7 +27,7 @@ In progress:
   <li>SQL</li>
 </ul>
 
-Planned:
+Next:
 <ul>
   <li>Javascript</li>
   <li>CS50's Web Programming with Python and JavaScript (<img src="https://user-images.githubusercontent.com/97128701/171847096-d67cc671-fc19-4ec2-a6f5-a1a081ad0e20.png" width="20" height="20">   2022 Goal)</li>
