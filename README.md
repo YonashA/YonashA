@@ -18,6 +18,9 @@ Currently improving my Python skills, Django, Bootstrap, HTML & CSS in a Full-St
 I'm also working on:<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonashA&repo=phl-schedule-terminarz&theme=github_dark)](https://github.com/YonashA/phl-schedule-terminarz)]
 
+What I've been using:<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonashA&layout=compact)]
+
 <h3>What I'm learning now <img src="https://user-images.githubusercontent.com/97128701/171838732-d3ca63d3-aa78-42ef-a540-5941e16842e7.png" width="40" height="40"></h3>
   
  <p>Gathering new knowledge and up-skilling by leveraging video tutorials, taking online courses (Udemy), reading books and finally, completing my coding projects.</p>
