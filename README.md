@@ -15,7 +15,7 @@ I’ve built my career on a few important principles: be productive and innovati
 
 Currently improving my Python skills, Django, Bootstrap, HTML & CSS in a Full-Stack Web Development project, building a small portal for premium members of the <a href="https://ekkb.pl/">European Women Business Club<a/>. And, I have a list of ideas for other small & big projects.
   
-<h4>I'm also working on:</h4><br><br>
+<h4>I'm also working on:</h4><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonashA&repo=phl_schedule_terminarz&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>What I'm learning now <img src="https://user-images.githubusercontent.com/97128701/171838732-d3ca63d3-aa78-42ef-a540-5941e16842e7.png" width="40" height="40"></h3>
