@@ -1,6 +1,4 @@
 <h2>I'm Jonasz Adamski! <img src="https://user-images.githubusercontent.com/97128701/171836461-a8b868ab-d6b1-4191-89e6-7bf92ad6ba32.png" width="40" height="40"></h2> 
-<p>I’m a man with many passions, constantly exploring new horizons, quick learner and creative in everything I do. I work for one of the greatest, biggest and innovative <a href="https://www.ibm.com/">companies in the World</a> as a Senior Managing Consultant for Finance Transformation.
-I’ve built my career on a few important principles: be productive and innovative, take on new challenges, put my heart into it and never stop!</p>
 
 <p><img src="https://user-images.githubusercontent.com/97128701/171843540-9ee69c7f-93bd-4fac-9e95-ae1e756b0562.png" width="10" height="10">     I'm not a professional programmer (but who knows, someday...)</p>
 
@@ -10,7 +8,7 @@ I’ve built my career on a few important principles: be productive and innovati
 
 <h3>What I'm focusing on <img src="https://user-images.githubusercontent.com/97128701/171838845-15a0405f-4657-4b06-b2e6-b2f80eeabd8c.png" width="40" height="40"></h3>
 
-Currently improving my Python skills, Django, Bootstrap, HTML & CSS in a Full-Stack Web Development project, building a small portal for premium members of the European Women Business Club. And, I have a list of ideas for other small & big projects.
+Currently improving my Python skills, Django, Bootstrap, HTML & CSS in a Full-Stack Web Development project, building a small portal for premium members of the European Women Business Club. 
   
 I'm also working on:<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonashA&repo=phl-schedule-terminarz&theme=github_dark)](https://github.com/YonashA/phl-schedule-terminarz)]
@@ -19,8 +17,6 @@ What I've been using:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonashA&layout=compact&theme=github_dark)](https://github.com/YonashA)
 
 <h3>What I'm learning now <img src="https://user-images.githubusercontent.com/97128701/171838732-d3ca63d3-aa78-42ef-a540-5941e16842e7.png" width="40" height="40"></h3>
-  
- <p>Gathering new knowledge and up-skilling by leveraging video tutorials, taking online courses (Udemy), reading books and finally, completing my coding projects.</p>
 
 In progress:
 <ul>
