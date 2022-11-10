@@ -18,7 +18,7 @@ What I've been using:<br>
 
 <h3>What I'm learning now <img src="https://user-images.githubusercontent.com/97128701/171838732-d3ca63d3-aa78-42ef-a540-5941e16842e7.png" width="40" height="40"></h3>
 
-In progress:
+In progress / Completed:
 <ul>
   <li>CS50's Introduction to Computer Science (<img src="https://user-images.githubusercontent.com/97128701/171847096-d67cc671-fc19-4ec2-a6f5-a1a081ad0e20.png" width="20" height="20">   2022 Goal)</li>
   <li>Python</li>
