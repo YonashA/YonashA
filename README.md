@@ -1,7 +1,5 @@
 <h2>I'm Jonasz Adamski! <img src="https://user-images.githubusercontent.com/97128701/171836461-a8b868ab-d6b1-4191-89e6-7bf92ad6ba32.png" width="40" height="40"></h2> 
 
-<p><img src="https://user-images.githubusercontent.com/97128701/171843540-9ee69c7f-93bd-4fac-9e95-ae1e756b0562.png" width="10" height="10">     I'm not a professional programmer (but who knows, someday...)</p>
-
 <p><img src="https://user-images.githubusercontent.com/97128701/171844069-bdccd49a-cc5d-4cbb-9cf2-d5839ace9333.png" width="10" height="10">      I have become a programming enthusiast, spending every minute of my spare time learning new things and building personal projects, simply just having fun!</p>
 
 <hr>
