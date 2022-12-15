@@ -18,16 +18,16 @@ What I've been using:<br>
 
 In progress / Completed:
 <ul>
-  <li>CS50's Introduction to Computer Science (<img src="https://user-images.githubusercontent.com/97128701/171847096-d67cc671-fc19-4ec2-a6f5-a1a081ad0e20.png" width="20" height="20">   2022 Goal)</li>
+  <li>CS50's Introduction to Computer Science (<img src="https://user-images.githubusercontent.com/97128701/171847096-d67cc671-fc19-4ec2-a6f5-a1a081ad0e20.png" width="20" height="20">   2022 Goal - currently on Week 9/10)</li>
   <li>Python</li>
   <li>Django</li>
   <li>Bootstrap</li>
   <li>SQL</li>
+  <li>Javascript</li>
 </ul>
 
 Next:
 <ul>
-  <li>Javascript</li>
   <li>CS50's Web Programming with Python and JavaScript (<img src="https://user-images.githubusercontent.com/97128701/171847096-d67cc671-fc19-4ec2-a6f5-a1a081ad0e20.png" width="20" height="20">   2022 Goal)</li>
 </ul>
 
