@@ -26,7 +26,7 @@ Next:
   <li>CS50's Web Programming with Python and JavaScript (<img src="https://user-images.githubusercontent.com/97128701/171847096-d67cc671-fc19-4ec2-a6f5-a1a081ad0e20.png" width="20" height="20">   2023 Goal)</li>
 </ul>
 
-What I'm using:
+Continuing:
 <ul>
   <li>Python</li>
   <li>Django</li>
