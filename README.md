@@ -18,7 +18,7 @@ What I've been using:<br>
 
 Completed:
 <ul>
-  <li>CS50's Introduction to Computer Science (<img src="https://user-images.githubusercontent.com/97128701/171847096-d67cc671-fc19-4ec2-a6f5-a1a081ad0e20.png" width="20" height="20"> 2022 Goal Accomplished</li>
+  <li>CS50's Introduction to Computer Science (2022 Goal Accomplished)</li>
 </ul>
 
 Next:
@@ -26,10 +26,11 @@ Next:
   <li>CS50's Web Programming with Python and JavaScript (<img src="https://user-images.githubusercontent.com/97128701/171847096-d67cc671-fc19-4ec2-a6f5-a1a081ad0e20.png" width="20" height="20">   2023 Goal)</li>
 </ul>
 
-In progress:
+What I'm using:
 <ul>
   <li>Python</li>
   <li>Django</li>
+  <li>Flask</li>
   <li>Bootstrap</li>
   <li>SQL</li>
   <li>Javascript</li>
