@@ -10,7 +10,7 @@ Currently improving my Python skills, Django, Bootstrap, HTML & CSS in a Full-St
 
 What I've been using:<br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonashA&layout=compact&theme=github_dark)](https://github.com/YonashA) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonashA&layout=compact&theme=github_dark)](https://github.com/YonashA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonashA&layout=compact&theme=github_dark&langs_count=8)](https://github.com/YonashA/github-readme-stats)
 
 
 <h3>What I'm learning now <img src="https://user-images.githubusercontent.com/97128701/171838732-d3ca63d3-aa78-42ef-a540-5941e16842e7.png" width="40" height="40"></h3>
