@@ -1,6 +1,14 @@
 <h2>I'm Jonasz Adamski! <img src="https://user-images.githubusercontent.com/97128701/171836461-a8b868ab-d6b1-4191-89e6-7bf92ad6ba32.png" width="40" height="40"></h2> 
 
-<p><img src="https://user-images.githubusercontent.com/97128701/171844069-bdccd49a-cc5d-4cbb-9cf2-d5839ace9333.png" width="10" height="10">      I have become a programming enthusiast, spending every minute of my spare time learning new things and building personal projects, simply just having fun!</p>
+<p><img src="https://user-images.githubusercontent.com/97128701/171844069-bdccd49a-cc5d-4cbb-9cf2-d5839ace9333.png" width="10" height="10">      I have become a programming enthusiast, spending every minute of my spare time learning new things and building personal projects!</p>
+
+<ul>
+  <li>⚙️ I build with Python, Django, Bootstrap, JavaScript, SQL, and HTML with CSS</li>
+  <li>👨🏼‍💻 I focus on Full-Stack projects and enjoy spending time improving my knowledge</li>
+  <li>✨ , and in my free time I </li>
+  <li> 👔 Check out my professional profile on <a href="https://www.linkedin.com/in/jonaszadamski/">LinkedIn</a>
+  <li>📨 Feel free to contact me: <a href="mailto:jonasz.adamski@gmail.com">jonasz.adamski@gmail.com</a></li>
+</ul>
 
 <hr>
 
@@ -10,29 +18,6 @@ Currently improving my Python skills, Django, Bootstrap, HTML & CSS in a Full-St
 
 What I've been using:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonashA&layout=compact&theme=github_dark&langs_count=8)](https://github.com/YonashA/github-readme-stats)
-
-
-<h3>What I'm learning now <img src="https://user-images.githubusercontent.com/97128701/171838732-d3ca63d3-aa78-42ef-a540-5941e16842e7.png" width="40" height="40"></h3>
-
-Completed:
-<ul>
-  <li>CS50's Introduction to Computer Science (2022 Goal Accomplished)</li>
-</ul>
-
-Next:
-<ul>
-  <li>CS50's Web Programming with Python and JavaScript (<img src="https://user-images.githubusercontent.com/97128701/171847096-d67cc671-fc19-4ec2-a6f5-a1a081ad0e20.png" width="20" height="20">   2023 Goal)</li>
-</ul>
-
-Continuing:
-<ul>
-  <li>Python</li>
-  <li>Django</li>
-  <li>Flask</li>
-  <li>Bootstrap</li>
-  <li>SQL</li>
-  <li>Javascript</li>
-</ul>
 
 <h3>Where else to find me <img src="https://user-images.githubusercontent.com/97128701/171838435-8c8f1c3c-4297-47cc-be1a-cf2c4cc6f152.png" width="40" height="40"></h3>
 
