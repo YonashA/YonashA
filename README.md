@@ -5,8 +5,8 @@
 <ul>
   <li>⚙️ I build with Python, Django, Bootstrap, JavaScript, SQL, and HTML with CSS</li>
   <li>👨🏼‍💻 I focus on Full-Stack projects and enjoy spending time improving my knowledge</li>
-  <li>✨ , and in my free time I </li>
-  <li> 👔 Check out my professional profile on <a href="https://www.linkedin.com/in/jonaszadamski/">LinkedIn</a>
+  <li>✨ I'm a big fan of F1, golf, love to play football and tennis, at the same as spending time reading interesting books</li>
+  <li>👔 Check out my professional profile on <a href="https://www.linkedin.com/in/jonaszadamski/">LinkedIn</a>
   <li>📨 Feel free to contact me: <a href="mailto:jonasz.adamski@gmail.com">jonasz.adamski@gmail.com</a></li>
 </ul>
 
