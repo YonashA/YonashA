@@ -14,7 +14,7 @@
 
 <h3>What I'm focusing on <img src="https://user-images.githubusercontent.com/97128701/171838845-15a0405f-4657-4b06-b2e6-b2f80eeabd8c.png" width="40" height="40"></h3>
 
-Currently improving my Python skills, Django, Bootstrap, HTML & CSS in a Full-Stack Web Development project. My web app for premium members of the <a href="https://www.ekkbvip.pl/">European Women Business Club</a> went live Dec 2022.
+My web app for premium members of the <a href="https://www.ekkbvip.pl/">European Women Business Club</a> went live Dec 2022.
 
 What I've been using:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonashA&layout=compact&theme=github_dark&langs_count=8)](https://github.com/YonashA/github-readme-stats)
