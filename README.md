@@ -16,7 +16,6 @@
 
 <ul>
 <li>Successfully launched Project in 2024, building a website for <a href="https://www.fundacjawzgodziezesoba.pl/">the Polish Foundation "W zgodzie ze soba"</a>, well-known from its "No hate - motivate!" campaign</li>
-<li>Building my first mobile app with Flutter - planning to go live in Q2 2025</li>
 </ul>
 
 What I've been using:<br>
