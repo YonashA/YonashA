@@ -15,7 +15,7 @@
 <h3>What I'm focusing on <img src="https://user-images.githubusercontent.com/97128701/171838845-15a0405f-4657-4b06-b2e6-b2f80eeabd8c.png" width="40" height="40"></h3>
 
 <ul>
-<li>Successfully launched Project in 2024, building a website for <a href="https://www.fundacjawzgodziezesoba.pl/">the Polish Foundation "W zgodzie ze soba"</a>, well-known from its "No hate - motivate!" campaign</li>
+<li>Created and launched Project, building a website for <a href="https://www.fundacjawzgodziezesoba.pl/">the Polish Foundation "W zgodzie ze soba"</a>, well-known from its "No hate - motivate!" campaign</li>
 <li>Built and launched <a href="https://www.kompetr.com/">kompetr</a> — a social sports web app that simplifies organizing games, tracking performance, and balancing teams.</li>
 </ul>
 
