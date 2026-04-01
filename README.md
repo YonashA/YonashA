@@ -19,10 +19,6 @@
 <li>Built and launched <a href="https://www.kompetr.com/">kompetr</a> — a social sports web app that simplifies organizing games, tracking performance, and balancing teams.</li>
 </ul>
 
-
-What I've been using:<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonashA&layout=compact&theme=github_dark&langs_count=8)](https://github.com/YonashA/github-readme-stats)
-
 <h3>Where else to find me <img src="https://user-images.githubusercontent.com/97128701/171838435-8c8f1c3c-4297-47cc-be1a-cf2c4cc6f152.png" width="40" height="40"></h3>
 
 <a href="https://www.linkedin.com/in/jonaszadamski/" target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>   
