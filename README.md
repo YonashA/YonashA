@@ -1,12 +1,16 @@
 <h2>I'm Jonasz Adamski! <img src="https://user-images.githubusercontent.com/97128701/171836461-a8b868ab-d6b1-4191-89e6-7bf92ad6ba32.png" width="40" height="40"></h2> 
 
-<p><img src="https://user-images.githubusercontent.com/97128701/171844069-bdccd49a-cc5d-4cbb-9cf2-d5839ace9333.png" width="10" height="10">      I have become a programming enthusiast, spending every minute of my spare time learning new things and building personal projects!</p>
+<p>
+  <img src="https://user-images.githubusercontent.com/97128701/171844069-bdccd49a-cc5d-4cbb-9cf2-d5839ace9333.png" width="10" height="10">
+  I build and ship full-stack products — currently working on <a href="https://www.kompetr.com">kompetr.com</a>, a web app for organizing games with friends, tracking players, and keeping competition fun and fair.
+</p>
 
 <ul>
-  <li>⚙️ I build with Figma, Python, Django, Bootstrap, JavaScript, SQL, and HTML with CSS. Recently into the mobile apps with Flutter and Dart.</li>
-  <li>👨🏼‍💻 I focus on Full-Stack projects and enjoy spending time improving my knowledge</li>
-  <li>✨ I'm a big fan of F1, love to play football and tennis, as well as spending time reading interesting books</li>
-  <li>👔 Check out my professional profile on <a href="https://www.linkedin.com/in/jonaszadamski/">LinkedIn</a>
+  <li>⚙️ Stack: Python, Django, JavaScript, SQL, HTML & CSS (with product design in Figma)</li>
+  <li>🚀 Focused on building end-to-end products — from idea → design → code → launch</li>
+  <li>📱 Exploring mobile development with Flutter & Dart</li>
+  <li>✨ Outside of coding: F1, football, tennis, and good books</li>
+  <li>👔 Check out my professional profile on <a href="https://www.linkedin.com/in/jonaszadamski/">LinkedIn</a></li>
   <li>📨 Feel free to contact me: <a href="mailto:jonasz.adamski@gmail.com">jonasz.adamski@gmail.com</a></li>
 </ul>
 
