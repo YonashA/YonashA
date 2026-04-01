@@ -20,7 +20,7 @@
 
 <ul>
 <li>Created and launched Project, building a website for <a href="https://www.fundacjawzgodziezesoba.pl/">the Polish Foundation "W zgodzie ze soba"</a>, well-known from its "No hate - motivate!" campaign</li>
-<li>Built and launched <a href="https://www.kompetr.com/">kompetr</a> — a social sports web app that simplifies organizing games, tracking performance, and balancing teams.</li>
+<li>Built and launched <a href="https://www.kompetr.com/">kompetr.com</a> — a social sports web app that simplifies organizing games, tracking performance, and balancing teams.</li>
 </ul>
 
 <h3>Where else to find me <img src="https://user-images.githubusercontent.com/97128701/171838435-8c8f1c3c-4297-47cc-be1a-cf2c4cc6f152.png" width="40" height="40"></h3>
