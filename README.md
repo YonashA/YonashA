@@ -2,7 +2,7 @@
 
 <p>
   <img src="https://user-images.githubusercontent.com/97128701/171844069-bdccd49a-cc5d-4cbb-9cf2-d5839ace9333.png" width="10" height="10">
-  I build and ship full-stack products — currently working on <a href="https://www.kompetr.com">kompetr.com</a>, a web app for organizing games with friends, tracking players, and keeping competition fun and fair.
+  I build and ship full-stack products
 </p>
 
 <ul>
