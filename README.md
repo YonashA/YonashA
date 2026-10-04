@@ -9,7 +9,7 @@
   <li>⚙️ Stack: Python, Django, JavaScript, SQL, HTML & CSS (with product design in Figma)</li>
   <li>🚀 Focused on building end-to-end products — from idea → design → code → launch</li>
   <li>📱 Exploring mobile development with Flutter & Dart</li>
-  <li>✨ Outside of coding: F1, football, tennis, and good books</li>
+  <li>✨ Outside of coding: ice hockey, football, tennis, and good books</li>
   <li>👔 Check out my professional profile on <a href="https://www.linkedin.com/in/jonaszadamski/">LinkedIn</a></li>
   <li>📨 Feel free to contact me: <a href="mailto:jonasz.adamski@gmail.com">jonasz.adamski@gmail.com</a></li>
 </ul>
